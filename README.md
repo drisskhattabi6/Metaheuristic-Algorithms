@@ -1,6 +1,15 @@
 # Metaheuristic-Algorithms
 
 Here is a comprehensive overview of each algorithm, including their definitions, workings, processes, advantages, disadvantages, and applications:
+- Genetic Algorithm (GA)
+- Tabo Search (TS)
+- Simulated Anniling (SA)
+- Iterated Local Search (ILS)
+- Grey Wolf Optimization (GWO)
+- Flower Pollination Algorithm (FPA)
+- Shuffled Frog-Leaping Algorithm (SFLA)
+- Pratical Swarm Optimization (PSO)
+- Ant Colonny Optimization (ACO)
 
 ### Genetic Algorithm (GA)
 
