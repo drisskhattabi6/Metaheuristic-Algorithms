@@ -1,6 +1,6 @@
 # The Flower Pollination Algorithm (FPA)
 
-## Defination :
+## Overview :
 
 The Flower Pollination Algorithm (FPA) is a nature-inspired optimization algorithm based on the pollination process of flowering plants. Introduced by Xin-She Yang in 2012, the FPA is designed to solve complex optimization problems by mimicking the natural behavior of pollination. Here's an overview of the key concepts and mechanics of the Flower Pollination Algorithm:
 
