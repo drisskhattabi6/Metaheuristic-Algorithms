@@ -36,6 +36,8 @@ The SA algorithm involves the following steps:
 
    ![SA process](imgs/3.png)
 
+   ![SA process](imgs/psodo.webp)
+
 ## Pseudo-Code for Simulated Annealing
 
 ```pseudo
@@ -60,6 +62,10 @@ Return the best solution found
 **The Algorithm**
 
 ![SA.png](imgs/4.png)
+
+##### Or this :
+
+![SA.png](imgs/flowchart.webp)
 
 ## Advantages
 
